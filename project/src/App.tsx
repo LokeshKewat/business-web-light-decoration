@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
-import Gallery from './pages/Gallery';
+import Gallery from './pages/gallery';
 import AdminLogin from './pages/AdminLogin';
 import AdminPanel from './pages/AdminPanel';
 import { ThemeProvider } from './context/ThemeContext';
