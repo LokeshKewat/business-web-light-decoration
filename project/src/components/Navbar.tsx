@@ -49,7 +49,7 @@ export default function Navbar() {
             <li><a href="#home" className="hover:text-primary transition-colors">Home</a></li>
             <li><a href="#about" className="hover:text-primary transition-colors">About Us</a></li>
             <li><a href="#services" className="hover:text-primary transition-colors">Services</a></li>
-            <li><a href="/gallery" className="hover:text-primary transition-colors">Gallery</a></li>
+            <li><a href="/Gallery" className="hover:text-primary transition-colors">Gallery</a></li>
             <li><a href="#contact" className="hover:text-primary transition-colors">Contact</a></li>
           </ul>
         </div>
