@@ -18,7 +18,7 @@ function App() {
             <Navbar />
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/Gallery" element={<Gallery />} />
+              <Route path="/gallery" element={<Gallery />} />
               <Route path="/admin-login" element={<AdminLogin />} />
               <Route path="/admin" element={<AdminPanel />} />
             </Routes>
